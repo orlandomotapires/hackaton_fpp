@@ -8,7 +8,7 @@ This repository documents the results of a hackathon conducted as part of the "F
 - **OpenMP**: OpenMP directives have been employed for parallelization on shared-memory systems.
 
 ## Notebooks
-The primary notebook containing all the codes, experiments, and analyses is [Laplacian_Filter_Problem_Hackathon_PT(v3_nccl_teste).ipynb](Laplacian_Filter_Problem_Hackathon_PT(v3_nccl_teste).ipynb).
+The primary notebook containing all the codes, experiments, and analyses is [Laplacian_Filter_Problem_Hackathon_PT.ipynb](Laplacian_Filter_Problem_Hackathon_PT.ipynb).
 
 ## Contributors
 - List of contributors and their respective contributions.
