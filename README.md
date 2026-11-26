@@ -11,7 +11,10 @@ This repository documents the results of a hackathon conducted as part of the "F
 The primary notebook containing all the codes, experiments, and analyses is [Laplacian_Filter_Problem_Hackathon_PT.ipynb](Laplacian_Filter_Problem_Hackathon_PT.ipynb).
 
 ## Contributors
-- List of contributors and their respective contributions.
+The team at the HPC hackathon of Senai Cimatec, second semester of 2023:
+- Antônio Horácio Magalhães
+- Leonardo Rodrigues
+- Orlando Mota Pires
 
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
