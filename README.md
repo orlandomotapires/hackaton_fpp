@@ -19,7 +19,7 @@ The primary notebook containing all the codes, experiments, and analyses is [Lap
 The team at the HPC hackathon of Senai Cimatec, second semester of 2023:
 - Antônio Horácio Magalhães
 - Leonardo Rodrigues
-- Orlando Mota Pires
+- Orlando Mota Pires: wrote the single-GPU CUDA kernel and measured the run times and speedups
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
